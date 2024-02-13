@@ -4,7 +4,7 @@ fishbowlpy is a Python library that allows you to interact with fishbowlapp. Thi
 
 ## First of all what is Fishbowlapp?
 
-Fishbowlapp is an anonymous network where you can post insights of your company without revealing your identity. It's a good platform for those who are looking into job change or want suggestions from random people. It is a Glassdoor initiative but now there are lots of things going on in this platform. You can ask for referrals, give referrals, discuss about ongoing policy changes and that too without revealing your identity. Visit https://www.fishbowlapp.com for more info.
+Fishbowlapp is an anonymous network where you can post insights of your company without revealing your identity. It's a good platform for those who are looking into job change or want suggestions from random people. It is a Glassdoor initiative but now there are lots of things going on in this platform. You can request referrals, give referrals, discuss ongoing policy changes, all without revealing your identity. Visit https://www.fishbowlapp.com for more info.
 
 ## Features
 
